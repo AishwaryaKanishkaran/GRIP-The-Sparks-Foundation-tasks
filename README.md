@@ -1,4 +1,4 @@
-# GRIP@The Sparks Foundation tasks
+## GRIP@The Sparks Foundation tasks
 This repository consists of the tasks assigned under GRIP@The Sparks Foundation.
 
 ### Task-1 : Prediction using Supervised ML (Level - Beginner)
